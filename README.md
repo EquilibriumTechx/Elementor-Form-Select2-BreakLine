@@ -19,3 +19,5 @@ which will be something like this #form-field-mySelects<br>
 ![image](https://github.com/EquilibriumTechx/Elementor-Form-Select2-BreakLine/assets/65528418/ed5f6163-eb48-4ab5-b685-ab1e4c014acb)<br>
 
 you can use an html widget or code snippets or wpcodebox to apply this script
+
+You can also add a ID name for form widget and then add some styling, i had done some example in the css file
