@@ -1,0 +1,8 @@
+#test-select2 .select2-container .select2-selection--single {
+    height: 52px;
+    border: 1px solid #ccc;
+ }
+ #test-select2 .select2-container--default .select2-selection--single .select2-selection__rendered{
+      padding-top: 5px;
+      line-height: 20px;
+ }
