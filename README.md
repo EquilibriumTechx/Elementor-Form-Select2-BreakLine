@@ -7,10 +7,10 @@ Create a Form, and add a select field towards it<br>
 add the Name|value make sure to leave the first line blank, as there will be a placeholder
 add a . for the text which your going break to next line 
 
-<--! Leave Empty -->
-Training 1: . 6 September 2023 | training_1:_6_September_2023
-Training 2: . 6 September 2023 | training_2:_6_September_2023
-Training 3: . 6 September 2023 | training_3:_6_September_2023
+<--! Leave Empty --><br>
+Training 1: . 6 September 2023 | training_1:_6_September_2023<br>
+Training 2: . 6 September 2023 | training_2:_6_September_2023<br>
+Training 3: . 6 September 2023 | training_3:_6_September_2023<br>
 
 Next go to the advance section and put the Id for the field <br>
 ![image](https://github.com/EquilibriumTechx/Elementor-Form-Select2-BreakLine/assets/65528418/897878d0-ac8d-419d-bc2a-392ee06682ab)<br>
